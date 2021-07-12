@@ -1,5 +1,3 @@
-// Task
-
 // Complete the reverseString function; it has one parameter, s.You must perform the following actions:
 
 // Try to reverse string  using the split, reverse, and join methods.
