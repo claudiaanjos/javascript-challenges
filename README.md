@@ -4,13 +4,9 @@
 
 Repositorie of challenges to pratice JavaScript.
 
-### 🖥️  Installations
+### 🖥️ Resources
 
 - [Visual Studio Code](https://code.visualstudio.com/download)
-
-### ⚒️  Technologies
-
-- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 ### 🔥 Challenges
 
